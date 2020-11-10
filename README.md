@@ -1,1 +1,2 @@
 # NodeJS-ConsoleApplication
+A simple NodeJS application that use express. This application was developed for a fullstack course at Experis Academy in order to see if NodeJS was installed correctly. The application prompts the user to choose between three options. The first option will present the package.json file in the console. The second option will present some OS information in the console and the third option will open a server on localhost:3000 which will present the user with the message "Hello World!" when visited.
