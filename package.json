@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-consoleapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heso113/NodeJS-ConsoleApplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heso113/NodeJS-ConsoleApplication/issues"
+  },
+  "homepage": "https://github.com/Heso113/NodeJS-ConsoleApplication#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3"
+  }
+}
